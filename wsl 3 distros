@@ -1,0 +1,3 @@
+wsl --install Ubuntu-24.04
+wsl --install kali-linux
+wsl --install archlinux
